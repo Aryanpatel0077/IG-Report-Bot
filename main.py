@@ -19,7 +19,7 @@ from colorama import Fore, Back, Style
 
 bot = discord.Bot()
 
-token = "put discord bot token and enable all intents lol"
+token = "MTA1Nzk1NDgyNTg2MzcwNDYzNg.Gsfv1T.aJ8HVFuJrw9CepYow7yzBIXL6zeMz-jBpVnLpw''
 
 check_modules()
 
